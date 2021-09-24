@@ -1,0 +1,10 @@
+C:\Program Files\C#\emag\Emag\obj\Debug\Emag.csprojAssemblyReference.cache
+C:\Program Files\C#\emag\Emag\obj\Debug\Emag.Form1.resources
+C:\Program Files\C#\emag\Emag\obj\Debug\Emag.Properties.Resources.resources
+C:\Program Files\C#\emag\Emag\obj\Debug\Emag.csproj.GenerateResource.cache
+C:\Program Files\C#\emag\Emag\obj\Debug\Emag.csproj.CoreCompileInputs.cache
+C:\Program Files\C#\emag\Emag\bin\Debug\Emag.exe.config
+C:\Program Files\C#\emag\Emag\bin\Debug\Emag.exe
+C:\Program Files\C#\emag\Emag\bin\Debug\Emag.pdb
+C:\Program Files\C#\emag\Emag\obj\Debug\Emag.exe
+C:\Program Files\C#\emag\Emag\obj\Debug\Emag.pdb

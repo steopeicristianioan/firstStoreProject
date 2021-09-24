@@ -1,0 +1,10 @@
+1|Minge Brazuca|125.99|0|Minge Brazuca Originala de la WC 2014|mingeBrazuca.jpg
+2|Crampoane Nemeziz Albastre|199.99|1346|Crampoane Premium Adidas Nemeziz albastre, marimea 41|nemezizAlbastre.jpg
+3|Jampiere Joma|34.99|12297|Jampiere Joma Calcio 24, galbene si foarte comfortabile|jampiereJomaCalcio24.jpg
+4|Crampoane Nike Mercurial|149.99|152|Nike Mercurial super comfortabile si usoare|mercurialSuperFly8Pro.jpg
+5|Jordan 1 Dark Mocha|120|1400|Jordan 1 Mid, culoare Dark Mocha comfortabili si practici|jordan1DarkMocha.jpg
+6|Minge Nike|104.99|1501|Minge oficiala Nike din Cupa Frantei 2020|mingeNikeCupaFrantei.jpg
+7|Minge NBA|100|1303|Minge de basket oficiala NBA, sezonul 20-21|mingeNBA.jpg
+8|Adidas F50|124.99|1448|Adidas F50 prtocalii cu galben, editie limitata|adidasF50Portocalii.jpg
+9|Nike Air Force 1|100|1378|Nike Air Force 1 cu swoosh negru, clasici si comfortabili|airForce1BlackSwoosh.jpg
+10|Tricou Jordan|54.99|1834|Tricou Air Jordan OS Clasic subtire, usor si practic|tricouJordanOSClasic.jpg
